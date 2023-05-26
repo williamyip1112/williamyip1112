@@ -12,8 +12,9 @@ website:
 
 format:
   html:
-    theme: journal
-    scss: mystyles.scss
+    theme: 
+      - cosmo
+      - mystyles.scss
     toc: true
 
 editor: visual

@@ -3,8 +3,9 @@ title: "William Yip"
 image: IMG_6201 2.JPG
 format: 
   html: 
-    theme: journal
-    scss: mystyles.scss
+    theme:
+      -cosmo
+      -mystyles.scss
     mainfont: Times New Roman
     toc: true
       
