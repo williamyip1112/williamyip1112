@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "williamyip1112"
+  title: "William Yip"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - Skillsets.qmd
+      - Experiences.qmd
 
 format:
   html:
