@@ -1,7 +1,28 @@
 ---
-title: "williamyip1112"
+title: "William Yip"
+image: IMG_6201 2.JPG
+format: 
+  html: 
+    theme: cosmo
+      - mystyles.scss
+    mainfont: Times New Roman
+    toc: true
+      
+about:
+  template: trestles
+  image-shape: round
+  image-width: 23em
+  links: 
+    - text: Github
+      href: https://github.com/williamyip1112/williamyip1112.git
+    - text: Email
+      href: williamyip@ucsb.edu
 ---
 
-This is a Quarto website.
+# Education
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+B.S in Biology and Environmental Science at UC Santa Barbara (2023)
+
+# About Me
+
+Hi, my name is William and I am a 4th year biology and environmental studies major who is learning more about data science and how to use R. My hobbies include playing basketball, video games, and watching movies.
