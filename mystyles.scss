@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+
+// Colors
+$light-sage-green:
+$dark-sage-green:
+$cream
+$gray:
+$light-gray:
+$purple:
+
+// Base document colors
+$navbar-bg: $cream // navbar 
+$navbar-fg: $dark-sage-green; // navbar foregound elements
+$navbar-hl: $purple; // highlight color when hovering over navbar links
+$body-bg: $light-sage-green; // page background 
+$body-color: %$gray; // page text
+$footer-bg: $cream; // footer 
+$link-color: $purple; // hyperlinks
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $purple; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color
