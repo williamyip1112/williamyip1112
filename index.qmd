@@ -4,7 +4,7 @@ image: IMG_6201 2.JPG
 format: 
   html: 
     theme: journal
-      - mystyles.scss
+    scss: mystyles.scss
     mainfont: Times New Roman
     toc: true
       
